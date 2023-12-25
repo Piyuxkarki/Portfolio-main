@@ -10,7 +10,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Imon Banerjee</h3>
+          <h3>Designed and Developed by Piyush Karki</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year}</h3>
@@ -19,7 +19,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/imonholic"
+                href="https://github.com/piyuxkarki"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -29,7 +29,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.youtube.com/@vloggerimon"
+                href="https://www.youtube.com/@piyushkarki4836"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -39,7 +39,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/vlogger_imon"
+                href="https://www.instagram.com/__.dxrkwolff.__"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
